@@ -1,1 +1,2 @@
-# Amazon_sales_data
+ Amazon_sales_data :  The sales performance indicates that Delhi generated the highest revenue among all cities, followed by Mumbai and Bangalore. Electronics was the top-performing category, contributing significantly to overall sales. The highest number of orders were placed in March, suggesting a seasonal trend. Additionally, online payment was the most preferred method, highlighting customer trust in digital transactions.
+
